@@ -55,4 +55,8 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
+&nbsp;
+&nbsp;
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
+</p> 
