@@ -1,6 +1,6 @@
 
 
-<p align="center">My name is Gabriel, currently attending two universities, cybersecurity and computer science, learning how to program, and loving what I've chosen for my future!.</p>&nbsp;
+<p align="center">My name is Gabriel, currently attending two universities, cybersecurity and computer science, learning how to program, and loving what I've chosen for my future!</p>&nbsp;
 
 
  
