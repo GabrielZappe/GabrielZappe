@@ -51,7 +51,6 @@
 <a href="https://www.instagram.com/zappeep" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/gabrielzappe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-<a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FGabrielZappe" target="_blank"><img src="https://img.shields.io/github/followers/GabrielZappe.svg?style=social&label=Follow&maxAge=2592000"  target="_blank"></a>
    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
