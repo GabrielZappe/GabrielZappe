@@ -56,3 +56,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
 </p> 
+</br>
+<img width=50% src=GABRIEL ALURA CERTIFICADO ENGLISH - Program -.pdf/>
