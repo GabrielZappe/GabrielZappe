@@ -57,4 +57,4 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
 </p> 
 </br>
-<img width=40% src="https://github.com/GabrielZappe/GabrielZappe/blob/main/GABRIEL%20ALURA%20CERTIFICADO%20ENGLISH%20-%20Program%20-.jpg?raw=true"/>
+<img width=100% src="https://github.com/GabrielZappe/GabrielZappe/blob/main/GABRIEL%20ALURA%20CERTIFICADO%20ENGLISH%20-%20Program%20-.jpg?raw=true"/>
