@@ -57,4 +57,11 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
 </p> 
 </br>
-<img width=40% src="https://github.com/GabrielZappe/GabrielZappe/assets/129631016/96a8d252-5622-4b23-a1df-2dc53fb6da25" style="transform:rotate(90deg);"/>
+<img width=40% src="https://github.com/GabrielZappe/GabrielZappe/assets/129631016/96a8d252-5622-4b23-a1df-2dc53fb6da25" class="vertical-img"/>
+<style>
+ .vertical-img {
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+</style>
