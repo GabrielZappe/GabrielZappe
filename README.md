@@ -48,9 +48,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/gabrielzappe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-   
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
-</p> 
+<a href="https://www.linkedin.com/in/gabrielzappe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>   
+
 </br>
 <img width=100% src="https://github.com/GabrielZappe/GabrielZappe/blob/main/GABRIEL%20ALURA%20CERTIFICADO%20ENGLISH%20-%20Program%20-.jpg?raw=true"/>
