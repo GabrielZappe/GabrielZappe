@@ -50,8 +50,6 @@
 
 <a href="https://www.linkedin.com/in/gabrielzappe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GabrielZappe&theme=blue-green">
 </p> 
 </br>
